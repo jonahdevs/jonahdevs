@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+ <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I'm a **Full-Stack Developer** with **3+ years** of experience
 - 💼 Specialized in **Laravel**, **Vue.js**, and **React**
